@@ -18,38 +18,25 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/WHOAMI-XD-KING/MY-BANNER.git
+$ git clone https://github.com/D4rk-B0y/banner.git
 ```
 ```
-$ cd MY-BANNER
+$ cd banner
 ```
 ```
 $ bash install
 ```
 ```
-$ bash TXB.sh
+$ bash ENG.sh
 ```
 Now Type exit & restart Termux
 
-### Update Tool
-```
-### Subscribe our channel on youtube
-https://youtube.com/channel/UCMMkaytXBYmuF9_fIJDNmBA
 
-# ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
+## ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+Github :- https://github.com/D4rk-B0y 
 
-***This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool***
+Facebook :-  https://facebook.com/bap.dakbi 
 
 
-# ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
-
-YouTube Channel :- https://youtube.com/channel/UCMMkaytXBYmuF9_fIJDNmBA
-
-Github :- https://github.com/WHOAMI-XD-KING
-
-Facebook :-  https://fb.com/Whoami King
-
-
-                                       Inspired By github.com/WHOAMI-XD-KING
+                                       Inspired By github.com/D4rk-B0y 
